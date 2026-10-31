@@ -68,6 +68,10 @@ python3 -m pytest
 
 This repository is written to ship **without** machine names, home directories, emails, tokens, or hardware identifiers. At runtime the HUD reads live local metrics on your machine and never leaves loopback. See [SECURITY.md](SECURITY.md).
 
+Project page: [shadowfetchlinux.org/open-source/projects/shadow-mission-control](https://www.shadowfetchlinux.org/open-source/projects/shadow-mission-control)
+
+Like this project? You can [buy me a coffee](https://www.buymeacoffee.com/shadowfetcu).
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
